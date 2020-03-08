@@ -1,2 +1,2 @@
 # SSM_config
-Configs about Spring , SpringMVC and Mybatis.
+There are some configs about Spring , SpringMVC and Mybatis.
